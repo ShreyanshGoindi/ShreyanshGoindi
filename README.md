@@ -1,34 +1,24 @@
 <div align="center">
 
-<!-- Animated header using capsule-render -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7a8d8,100:c084fc&height=200&section=header&text=Shreyansh%20Goindi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20things%20that%20think.&descAlignY=55&descSize=18)
 
-<!-- Sparkle badge decorations -->
-![](https://img.shields.io/badge/✨-Open%20to%20Opportunities-f7a8d8?style=flat-square&labelColor=1a0a2e&color=f7a8d8)
-![](https://img.shields.io/badge/✨-CS%20%40%20SNU%20%2B%20ASU-c084fc?style=flat-square&labelColor=1a0a2e&color=c084fc)
-![](https://img.shields.io/badge/✨-ML%20%7C%20Full--Stack%20%7C%20Research-f7a8d8?style=flat-square&labelColor=1a0a2e&color=f7a8d8)
-![](https://img.shields.io/badge/✨-Building%20Things%20That%20Think-c084fc?style=flat-square&labelColor=1a0a2e&color=c084fc)
+![](https://img.shields.io/badge/%E2%9C%A8_Open_to_Opportunities-f7a8d8?style=flat-square&labelColor=1a0a2e&color=f7a8d8)
+![](https://img.shields.io/badge/%E2%9C%A8_CS_%40_SNU_%2B_ASU-c084fc?style=flat-square&labelColor=1a0a2e&color=c084fc)
+![](https://img.shields.io/badge/%E2%9C%A8_ML_%7C_Full--Stack_%7C_Research-f7a8d8?style=flat-square&labelColor=1a0a2e&color=f7a8d8)
+![](https://img.shields.io/badge/%E2%9C%A8_Building_Things_That_Think-c084fc?style=flat-square&labelColor=1a0a2e&color=c084fc)
 
 <br/>
 
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF2D9B&center=true&vCenter=true&width=600&lines=CS+%40+SNU+%2B+ASU;Passionate+Programmer;Full-Stack+%7C+ML+%7C+Research;SIH+Team+Lead+%7C+IT+Intern+%40+Hero+FinCorp;Researcher+%7C+INNs)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-goindi-69a41b282/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyanshGoindi)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanshgoindi@gmail.com)
 
 <br/>
 
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" alt="⭐" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
 </div>
 
 ---
@@ -47,12 +37,6 @@ shreyansh = {
     "ask_me_about": ["SvelteKit", "FastAPI", "scikit-learn", "JWT/RBAC", "K-Means"],
 }
 ```
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" alt="⭐" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-</div>
 
 ---
 
@@ -96,12 +80,6 @@ shreyansh = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" alt="⭐" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-</div>
-
 ---
 
 ## Featured Projects
@@ -120,12 +98,6 @@ shreyansh = {
 | Hero FinCorp — IT Intern | Industry internship at Hero FinCorp NBFC | `Python` `Next.js` |
 | Image Obfuscation Research | Studying Invertible Neural Networks for reversible data hiding in sensitive visual data | `Python` `INNs` `Deep Learning` |
 
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" alt="⭐" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
 </div>
 
 ---
@@ -147,12 +119,6 @@ shreyansh = {
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" alt="⭐" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-</div>
-
 ---
 
 ## Highlights
@@ -164,12 +130,6 @@ shreyansh = {
 - **MIT IDSS** — Data Science & Machine Learning Certification
 - **Google Developer Groups SNU** — Member, Dev Team
 - **Emetra** — Live sustainability dashboard deployed on Vercel
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" alt="⭐" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-</div>
 
 ---
 
@@ -185,12 +145,6 @@ shreyansh = {
 | Finvest, SNU | Member |
 | Feeding India & Aura, SNU | Member (Philanthropic) |
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" alt="⭐" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-</div>
-
 ---
 
 ## Contribution Activity
@@ -203,12 +157,6 @@ shreyansh = {
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ShreyanshGoindi/ShreyanshGoindi/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" alt="⭐" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" alt="✨" />
 </div>
 
 ---
